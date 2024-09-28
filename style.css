@@ -1,0 +1,29 @@
+/*CSS TYPE:inline css,style tag,stylesheet*/
+h1{
+    color: green;
+}
+
+/*color property:Forground*/
+p{
+    color: darkolivegreen;
+}
+
+button{
+    color: aquamarine;
+}
+
+/*Background Color:*/
+
+body{
+    background-color: black;
+}
+
+/*Color System:RGB System*/
+body{
+    background-color:#ffff00;
+}
+
+/*Universal Selector*/
+*{
+    color: green;
+}

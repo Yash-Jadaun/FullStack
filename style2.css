@@ -1,0 +1,47 @@
+*{
+    color: blue;
+    background-color: black;
+}
+
+#headingone {
+    color: red;
+}
+
+.myClass{
+    color: green;
+}
+
+/*CSS M baad wali cheez ki priority jayada hoti h*/
+/*Selectors:Universal Selector,Element Selector,Id Selector,Class Selector*/
+
+#box{
+    color: yellow;
+    background-color: blueviolet;
+}
+
+.heading{
+    color: aquamarine;
+}
+
+button{
+    color: green;
+
+}
+
+/*Text Align*/
+
+p{
+    text-align: right;
+}
+
+/*Text Decoration*/
+h1{
+    text-decoration: underline;
+}
+
+a{
+    text-decoration: none ;
+}
+
+/*Font Family*/
+ 

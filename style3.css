@@ -1,0 +1,77 @@
+/* #one{
+    font-size: 25px;
+    line-height: normal;
+    text-transform: uppercase;
+    background-color: red;
+    color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+#two{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blue;
+    
+
+    background-color: pink;
+    
+
+    text-transform: lowercase;
+}
+
+#three{
+    width: 200px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: chartreuse;
+     border-radius: 100%;
+     border: 2px dashed black;
+}
+
+h1{
+  padding-left: 100px; 
+  padding-top: 100px; 
+  padding-right: 100px;
+
+  padding: 1px 2px 3px 50px;
+} */
+
+/* #one{
+    height:100px ;
+    width: 100px;
+    background-color: pink;
+
+    border: 2px solid red; */
+    /* border-radius: 50%; */
+    /* margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+} */
+
+/* #two{
+    height:100px ;
+    width: 100px;
+    background-color: pink;
+
+    border: 2px solid red;
+    margin-left: 200px;
+} */
+
+
+
+div{
+   height: 50px;
+   width: 100px;
+    background-color: aquamarine;
+    border-radius: 50%;
+ 
+   
+}
+
+
+
+
+
+
+
+
