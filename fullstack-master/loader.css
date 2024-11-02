@@ -1,0 +1,18 @@
+.loader {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 10px solid blue;
+    border-top: 10px solid black;
+    background-color: pink;
+    animation: spinanimate 1s linear 0s infinite normal;
+}
+
+@keyframes spinanimate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}

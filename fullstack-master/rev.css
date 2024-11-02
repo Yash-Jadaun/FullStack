@@ -1,0 +1,125 @@
+/* h1{
+    background-color: blue;
+    color: rgb(25, 25, 25);
+    color: #ff0000;
+} */
+
+/* 
+*{
+    background-color: red;
+    color: blue;
+} */
+
+
+/* #one{
+    color: green;
+}
+
+.c1{
+    color: blueviolet;
+} */
+
+
+
+/* h1{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 100;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+     font-family: monospace;
+     font-size: 50px;
+     line-height: normal;
+     text-transform: capitalize;
+     height: 100px;
+     width: 100px;
+} */
+
+/* div {
+    border-top: 10px solid pink;   
+    border-bottom: 20px solid pink; 
+    border-left: 5px solid pink;    
+    border-right: 5px solid pink; 
+    height: 100px;                
+    width: 500px;   
+    border-style: dotted;               
+} */
+
+/* div {
+     border-width: 5px;        
+    border-style: dotted;      
+    border-color: pink;       
+     border-radius: 10px;       
+} */
+
+
+/* div{
+   height: 100px; 
+   width: 100px;
+   background-color: pink;
+   border-width: 2px;
+   border-style: solid;
+} */
+
+
+/* #one {
+    height: 100px; 
+    width: 100px;
+    background-color: pink; 
+    border: 2px solid rgb(198, 12, 43);  
+    border-radius: 50%;
+    
+    padding-left: 50px;
+    padding-top: 80px;
+    padding-right: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+
+} */
+
+/* #two{
+    height: 100px; 
+    width: 100px;
+    background-color: pink; 
+    border: 2px solid rgb(198, 12, 43);  
+    border-radius: 50%;
+    
+    padding-left: 50px;
+    padding-top: 80px;
+    padding-right: 50px;
+} */
+
+/* .block {
+    display: block;
+    width: 100%;
+    background-color: lightblue;
+    padding: 20px;
+    margin-bottom: 10px;
+} */
+
+/* .inline {
+    display: inline;
+    background-color: lightgreen;
+    padding: 10px;
+} */
+
+/* .inline {
+    display: inline-block;
+    background-color: lightgreen;
+    padding-top: 10px;
+    padding-left: 50px;
+} */
+
+/* .hidden {
+    visibility: hidden;
+    background-color: lightgreen;
+    padding-top: 10px;
+    padding-left: 50px;
+} */
+
+.element{
+    background-color: rgba(255,0, 0, 0.5);
+}
+

@@ -1,0 +1,22 @@
+div{
+    background-color: red;
+    font-size: 20px;
+}
+/* 
+@media (min-width:600px){
+    div{
+        background-color:green;
+        font-size: 16px;
+        padding: 10px;
+    }
+} */
+
+
+
+/* @media (min-width: 600px) and (max-width: 700px) {
+    div{
+        background-color: green;
+        font-size: 16px;
+        padding: 10px;
+    }
+} */

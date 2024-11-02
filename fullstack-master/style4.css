@@ -1,0 +1,106 @@
+/* div{
+    display: inline;
+    background-color: red;
+} */
+
+/* div{
+    display: inline-block;
+    background-color: pink;
+} */
+/* 
+div{
+    display: none;
+    background-color: pink;
+}
+ */
+
+ /* #one{
+    visibility: hidden;
+    background-color: aqua;
+ } */
+
+ /* #two{
+background-color: rgba(255,0,0, 0.9); 
+    color: rgba(255,0,0, 0.9);
+    background-color: pink;
+ } */
+
+ /* #one{
+  
+    background-color: aqua;
+    width: 50vw;
+ } */
+
+
+ /* #one{
+  
+    background-color: aqua;
+    position: relative;
+    left: 20px;
+    top: 80px;
+ } */
+
+ /* #one{
+  
+    background-color: aqua;
+    position: absolute;
+    
+    top: 80px;
+    right: 20px;
+ } */
+/* 
+ #one{
+ 
+    position: fixed;
+    bottom: 50;
+    left: 100px;
+ } */
+
+ 
+ /* #one{
+ 
+    position: sticky;
+    top: 50px;
+    left: 50px;
+ } */
+
+
+ #one {
+   border: 5px solid red;
+   width: 200px;
+   height: 200px;
+   position: absolute; /* Absolute positioning to allow overlap */
+   top: 50px;  /* Setting position from top */
+   left: 50px; /* Setting position from left */
+   background-color: lightblue;
+   z-index: 1; /* Lower z-index */
+ }
+
+ #two {
+   border: 5px solid red;
+   width: 200px;
+   height: 200px;
+   position: absolute; /* Absolute positioning to allow overlap */
+   top: 100px;  /* Different top position to overlap with #one */
+   left: 100px; /* Different left position to overlap with #one */
+   background-color: lightgreen;
+   z-index: 1; /* Higher z-index to appear on top */
+   background-image:url("food.jpg") ;
+   background-size: cover;
+ }
+
+ body{
+   /* background-image: url("food.jpg"); */
+   background-size: cover;
+   background-repeat: no-repeat;
+ }
+ 
+ div{
+   height: 100px;
+   width: 100px;
+   background-image: url("food.jpg");
+   background-size: cover;
+   color: red;
+   position: absolute;
+   right: 0px;
+ }

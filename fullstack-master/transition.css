@@ -1,0 +1,21 @@
+div {
+    background-color: red;
+    border: 2px solid red;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    transform: rotate(90deg);
+  }
+
+
+  div:hover {
+    background-color: green;
+    font-size: 20px;
+    /* transition-timing-function: steps(6); Steps-based transition */
+    /* transition-delay: 5s; */
+/* 
+    transition: all 2s ease-in 1s; */
+
+}
