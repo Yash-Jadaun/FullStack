@@ -69,8 +69,27 @@
 
 //String Interpolation
 
-let age = 30;
+// let age = 30;
 
-let message = `I am ${age} years old`;
+// let message = `I am ${age} years old`;
 
-console.log(message);
+// console.log(message);
+
+
+
+// let text = `Hey I am Yash Jadaun
+//              I am an Engineering Student `;
+// console.log(text);
+
+
+//multiplication table
+
+let i=1;
+
+while(i<=10){
+    console.log(`5* ${i} = ${5*i}`);
+    i++;
+}
+
+
+
