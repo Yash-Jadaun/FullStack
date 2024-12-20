@@ -26,4 +26,8 @@ console.log(num);
 
 //undefind
 // var box;
+<<<<<<< HEAD
 // console.log(box); // Output: undefined
+=======
+// console.log(box); // Output: undefined
+>>>>>>> aa1586a0cd335338ef749af48d608ebfd23ca6d1

@@ -47,4 +47,9 @@
 // }
 
 // let result = calculator(1,2,'-');
+<<<<<<< HEAD
 // console.log(result);
+=======
+// console.log(result);
+
+>>>>>>> aa1586a0cd335338ef749af48d608ebfd23ca6d1

@@ -40,4 +40,9 @@ let num =['1','2','3'];
 
 // console.log(num);
 
+<<<<<<< HEAD
 // forEach Value Return nhi kr sakta but map return kr sakta h
+=======
+// forEach Value Return nhi kr sakta but map return kr sakta h
+
+>>>>>>> aa1586a0cd335338ef749af48d608ebfd23ca6d1

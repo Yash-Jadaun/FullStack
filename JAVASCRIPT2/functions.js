@@ -89,4 +89,11 @@ let i=1;
 while(i<=10){
     console.log(`5* ${i} = ${5*i}`);
     i++;
+<<<<<<< HEAD
 }
+=======
+}
+
+
+
+>>>>>>> aa1586a0cd335338ef749af48d608ebfd23ca6d1

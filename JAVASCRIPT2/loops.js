@@ -60,4 +60,9 @@ if(year%4==0 && year%100!=0){
 }
 else{
     console.log("Not a leap year");
+<<<<<<< HEAD
 }
+=======
+}
+
+>>>>>>> aa1586a0cd335338ef749af48d608ebfd23ca6d1
