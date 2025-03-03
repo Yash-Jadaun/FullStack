@@ -1,0 +1,7 @@
+.heading {
+  position: absolute;
+  top: 0; /* Positions the element at the top */
+  left: 50%; /* Moves the element horizontally to the center */
+   transform: translateX(-50%); 
+   
+}

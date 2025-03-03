@@ -1,0 +1,53 @@
+/* App.css */
+
+/* Reset styles for html and body */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+/* General transition for body */
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Light mode styles */
+.light-mode {
+  height: 100vh; /* Fullscreen height */
+  width: 100%;  /* Fullscreen width */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0; /* Light background */
+  color: #000000; /* Light text color */
+}
+
+/* Dark mode styles */
+.dark-mode {
+  height: 100vh; /* Fullscreen height */
+  width: 100%;  /* Fullscreen width */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #121212; /* Dark background */
+  color: #ffffff; /* Dark text color */
+}
+
+/* Button styles */
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  margin-top: 20px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}

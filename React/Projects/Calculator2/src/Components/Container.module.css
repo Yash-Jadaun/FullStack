@@ -1,0 +1,8 @@
+.Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This will make the container take full height of the viewport */
+    padding: 20px; /* Optional padding */
+  }
+  

@@ -1,0 +1,13 @@
+.display {
+    display: flex;                  /* Enable Flexbox */
+    justify-content: center;        /* Center content horizontally */
+    align-items: flex-start;        /* Align content to the top */
+    height: 100vh;                  /* Make the container take the full height of the viewport */
+    margin: 0;                      /* Remove any default margin */
+    position: absolute;             /* Set position as absolute */
+    top: 0;                         /* Align to top */
+    left: 50%;                      /* Align horizontally to the center */
+    transform: translateX(-50%); 
+     margin-top: 10%;
+  }
+  

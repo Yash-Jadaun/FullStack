@@ -1,0 +1,6 @@
+.Display {
+  display: flex;
+  align-items: top;
+  gap: 10px; /* Adjust spacing as needed */
+  margin-bottom: 100%;
+}

@@ -1,0 +1,28 @@
+.container {
+    margin: 20px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  ul {
+    list-style-type: none; /* Remove default bullet points */
+    padding: 0;
+  }
+  
+  li {
+    font-size: 18px;
+    padding: 8px 0;
+    border-bottom: 1px solid #ddd; /* Add a divider */
+  }
+  
+  li:last-child {
+    border-bottom: none; /* Remove divider from the last item */
+  }
+  
+  li:hover {
+    background-color: #f0f0f0; /* Highlight on hover */
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  

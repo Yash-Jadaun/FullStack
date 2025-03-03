@@ -1,0 +1,23 @@
+/* src/Components/Display.module.css */
+.Container {
+  background-color: lightblue;
+  padding: 10px 20px; /* Add some padding */
+  width: 350px; /* Set the width of the container */
+  text-align: center;
+  position: fixed; /* Fixed at the top */
+  top: 0; /* Stick to the top */
+  left: 50%; /* Move the container to the center */
+  transform: translateX(-50%); /* Center the container */
+  z-index: 1000; /* Ensure it's above other content */
+}
+
+.input-group {
+  width: 100%; /* Full width for the input */
+}
+
+.form-control {
+  padding: 10px;
+  font-size: 18px;
+  width: 100%;
+  box-sizing: border-box; /* Ensure input width is accurate */
+}

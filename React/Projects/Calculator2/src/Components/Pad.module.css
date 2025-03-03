@@ -1,0 +1,34 @@
+/* src/Components/Pad.module.css */
+
+.Container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 columns for the buttons */
+    gap: 10px; /* Smaller gap between the buttons */
+    justify-items: center; /* Center buttons within their grid cells */
+    padding: 20px; /* Padding inside the button container */
+    position: fixed; /* Fix the container at the bottom */
+    bottom: 20px; /* Place it 20px above the bottom of the screen */
+    left: 50%; /* Align container to the center horizontally */
+    transform: translateX(-50%); /* Ensure it's perfectly centered */
+  }
+  
+  button {
+    font-size: 18px; /* Font size for the button text */
+    padding: 15px; /* Padding inside the button */
+    width: 70px; /* Set a fixed width for the button */
+    height: 70px; /* Set a fixed height for the button */
+    border-radius: 10px; /* Rounded corners */
+    background-color: #f0f0f0; /* Light gray background */
+    border: 2px solid #ccc; /* Border with light gray color */
+    cursor: pointer; /* Cursor style when hovering over the button */
+    transition: background-color 0.3s; /* Smooth background color transition */
+  }
+  
+  button:hover {
+    background-color: #ddd; /* Button color on hover */
+  }
+  
+  button:active {
+    background-color: #ccc; /* Slightly darker color when button is clicked */
+  }
+  

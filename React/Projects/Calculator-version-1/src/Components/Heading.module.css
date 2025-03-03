@@ -1,0 +1,14 @@
+.heading {
+        display: flex;                   /* Enable Flexbox */
+        justify-content: center;         /* Center horizontally */
+        align-items: flex-start;         /* Align to the top */
+        height: 100vh;                   /* Make the container take the full height of the viewport */
+        margin: 0;                       /* Remove any default margin */
+      }
+      
+      .heading h1 {
+        margin-top: 20px;                /* Add some margin from the top if needed */
+        font-size: 2rem;    
+        margin-left: 750%;             /* Adjust the font size */
+      }
+      
